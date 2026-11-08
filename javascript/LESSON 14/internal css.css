@@ -1,0 +1,15 @@
+body{
+    margin:0;
+    font-family:"Baloo Tamma 2,sans-serif";
+    background:#fff
+
+}
+.navigation{
+    background:#222
+    border-top: 2px solid #f2a900 ;
+    padding: 12px 40px !important;
+}
+.brand-logo{
+height:26px;
+width:auto
+}
